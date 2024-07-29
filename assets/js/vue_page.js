@@ -5,7 +5,7 @@ var footerHTML =
     '   <hr>' +
     '   <a href="https://github.com/iXORTech" title="GitHub"><i data-feather="github"></i></a>' +
     '   <br/>' +
-    '   Copyright &copy; 2022-2023 iXOR Technology. All rights reserved.' +
+    '   Copyright &copy; 2022-2024 iXOR Technology. All rights reserved.' +
     '   <br/>' +
     '   HTML theme designed by <a href="https://github.com/athul/archie" rel="nofollow noopener noreferrer">Archie Theme</a>, modified by <a href="https://github.com/KevinZonda" rel="nofollow noopener noreferrer">@KevinZonda</a>.' +
     '</footer>';
@@ -15,7 +15,7 @@ var zhFooterHTML =
     '   <hr>' +
     '   <a href="https://github.com/iXORTech" title="GitHub"><i data-feather="github"></i></a>' +
     '   <br/>' +
-    '   Copyright &copy; 2022-2023 iXOR Technology. 保留所有权利' +
+    '   Copyright &copy; 2022-2024 iXOR Technology. 保留所有权利' +
     '   <br/>' +
     '   HTML 主题由 <a href="https://github.com/athul/archie" rel="nofollow noopener noreferrer">Archie Theme</a> 设计，并由 <a href="https://github.com/KevinZonda" rel="nofollow noopener noreferrer">@KevinZonda</a> 制作' +
     '</footer>';
